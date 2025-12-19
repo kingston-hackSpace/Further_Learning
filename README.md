@@ -1,5 +1,5 @@
 # Further Learning
-
+-----
 ### Physical Computing : Arduino, ESP32, Raspberry Pi
 [Arduino Learn](https://docs.arduino.cc/learn/)
 
@@ -7,19 +7,18 @@
 
 [Make Academy](https://www.makecademy.com/)
 
+-----
+## Interactive Graphics: 
 
-## Interactive Graphics: P5.js, Processing
-[The Coding Train](https://thecodingtrain.com/)
+List of platforms for [Interactive Graphics](https://github.com/kingston-hackSpace/Interactive_Graphics)
 
-[Processing](https://processing.org/)
-
-
+-----
 ### Machine Learning: ML5.js, Tensor Flow
 [ML5.js](https://ml5js.org/)
 
 [Tensor Flow](https://www.tensorflow.org/js/tutorials?_gl=1*mw8j45*_up*MQ..*_ga*NTE3Mjc5OTk3LjE3NjQwMDY1NzM.*_ga_W0YLR4190T*czE3NjQwMDY1NzMkbzEkZzAkdDE3NjQwMDY1NzMkajYwJGwwJGgw)
 
-
+-----
 ### Maker Spaces in London
 
 The following are Maker Spaces beyond physical computing making:
@@ -34,6 +33,7 @@ The following are Maker Spaces beyond physical computing making:
 
 [Rickmond MakersLab](https://www.richmondmakerlabs.uk/)
 
+-----
 ### Festivals and others
 
 

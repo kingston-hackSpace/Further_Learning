@@ -1,11 +1,6 @@
 # Further Learning
 
 -----
-### Coding
-
-[Code Academy](https://www.codecademy.com/)
-
------
 ### Physical Computing : Arduino, ESP32, Raspberry Pi
 [Arduino Learn](https://docs.arduino.cc/learn/)
 
@@ -40,7 +35,11 @@ The following are Maker Spaces beyond physical computing making:
 [Rickmond MakersLab](https://www.richmondmakerlabs.uk/)
 
 -----
-### Festivals and others
+### Coding Skills
+
+[Code Academy](https://www.codecademy.com/)
+
+[Women in Tech / Learning](https://www.womenintech.co.uk/training/)
 
 
 

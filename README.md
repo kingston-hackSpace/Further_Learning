@@ -13,10 +13,6 @@
 
 List of platforms for [Interactive Graphics](https://github.com/kingston-hackSpace/Interactive_Graphics)
 
-[The NODE Institude](https://thenodeinstitute.org/?v=7885444af42e)
-
-[Touch Designer 101](https://learn.derivative.ca/courses/100-fundamentals/lessons/101-navigating-the-environment/)
-
 -----
 ### Machine Learning: ML5.js, Tensor Flow
 [ML5.js](https://ml5js.org/)
@@ -42,6 +38,8 @@ The following are Maker Spaces beyond physical computing making:
 [London Hackspace](https://london.hackspace.org.uk/)
 
 [Makerversity](https://www.makerversity.org/ )
+
+[The NODE Institute](https://thenodeinstitute.org/?v=7885444af42e)
 
 [Open Workshop Network](https://openworkshopnetwork.com/)  
 

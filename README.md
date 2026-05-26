@@ -15,6 +15,8 @@ List of platforms for [Interactive Graphics](https://github.com/kingston-hackSpa
 
 [The NODE Institude](https://thenodeinstitute.org/?v=7885444af42e)
 
+[Touch Designer 101](https://learn.derivative.ca/courses/100-fundamentals/lessons/101-navigating-the-environment/)
+
 -----
 ### Machine Learning: ML5.js, Tensor Flow
 [ML5.js](https://ml5js.org/)

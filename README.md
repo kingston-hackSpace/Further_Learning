@@ -13,6 +13,8 @@
 
 List of platforms for [Interactive Graphics](https://github.com/kingston-hackSpace/Interactive_Graphics)
 
+[The NODE Institude](https://thenodeinstitute.org/?v=7885444af42e)
+
 -----
 ### Machine Learning: ML5.js, Tensor Flow
 [ML5.js](https://ml5js.org/)

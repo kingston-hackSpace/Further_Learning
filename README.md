@@ -22,6 +22,15 @@ List of platforms for [Interactive Graphics](https://github.com/kingston-hackSpa
 [Tensor Flow](https://www.tensorflow.org/js/tutorials?_gl=1*mw8j45*_up*MQ..*_ga*NTE3Mjc5OTk3LjE3NjQwMDY1NzM.*_ga_W0YLR4190T*czE3NjQwMDY1NzMkbzEkZzAkdDE3NjQwMDY1NzMkajYwJGwwJGgw)
 
 -----
+### Coding Skills
+
+[Code Academy](https://www.codecademy.com/)
+
+[GreyArea](https://grayarea.org/courses/)
+
+[Women in Tech / Learning](https://www.womenintech.co.uk/training/)
+
+-----
 ### Maker Spaces in London
 
 The following are Maker Spaces beyond physical computing making:
@@ -35,13 +44,6 @@ The following are Maker Spaces beyond physical computing making:
 [Open Workshop Network](https://openworkshopnetwork.com/)  
 
 [Rickmond MakersLab](https://www.richmondmakerlabs.uk/)
-
------
-### Coding Skills
-
-[Code Academy](https://www.codecademy.com/)
-
-[Women in Tech / Learning](https://www.womenintech.co.uk/training/)
 
 
 
